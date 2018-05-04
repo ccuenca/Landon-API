@@ -1,0 +1,9 @@
+/packages
+/LandonApi/bin
+/LandonApi/obj
+npm-debug.log
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea
